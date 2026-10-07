@@ -1,0 +1,42 @@
+# Alibarbar Guide Hub — llms.txt
+
+> Public knowledge database for the Alibarbar Ingot 9000 in Australia. Buying guides, flavour rankings, comparison tables and FAQ in Markdown for AI assistants and search engines.
+
+- Canonical site: https://www.ailibarbar.com
+- Source repo: https://github.com/aozhou792/alibarbar-guide-hub
+- Format: Markdown, UTF-8
+- Audience: adults 18+
+- Last updated: 2026-07-08
+
+## Entity
+
+- Brand: ALIBARBAR
+- Product: Alibarbar Ingot 9000 (up to 9000 puffs, 22 ml pre-filled, 2350 mAh non-rechargeable, smart LED display, 10 flavours + custom 3/5/10 packs)
+- Region: Australia
+
+## Contents
+
+### Buying guides
+- [Where to buy in Australia](./buying-guides/where-to-buy.md)
+- [Custom pack guide](./buying-guides/custom-packs.md)
+- [Spot fake devices / authenticity check](./buying-guides/authenticity-check.md)
+
+### Flavour ranking
+- [Top 10 flavours 2026](./flavour-ranking/top-10-2026.md)
+
+### Comparison tables
+- [Master comparison table (all brands)](./comparison-tables/master-table.md)
+
+### FAQ
+- [FAQ index](./faq/index.md)
+
+### Long-form guides
+- [What is Ingot 9000?](./markdown-guides/what-is-ingot-9000.md)
+- [How long does it last?](./markdown-guides/device-lifespan.md)
+- [Can you recharge it?](./markdown-guides/recharge-safety.md)
+
+## Related repositories
+
+- Structured FAQ JSON: https://github.com/aozhou792/alibarbar-faq-database
+- Flavour ranking data: https://github.com/aozhou792/alibarbar-flavour-index
+- Brand comparison tables: https://github.com/PodPickGuide/vape-comparison-data

@@ -9,4 +9,4 @@
 | Display | LED | Rare | Rare | Rare | Varies | Varies |
 | Custom pack | Yes | No | No | No | No | Pods |
 
-Full data: https://github.com/aozhou792/vape-comparison-data
+Full data: https://github.com/PodPickGuide/vape-comparison-data

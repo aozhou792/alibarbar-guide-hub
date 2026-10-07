@@ -34,7 +34,7 @@ AlibarbarGuideHub
 | Repository | Type | Link |
 |------------|------|------|
 | **alibarbar-flavour-index** | Flavour ranking database | [github.com/aozhou792/alibarbar-flavour-index](https://github.com/aozhou792/alibarbar-flavour-index) |
-| **vape-comparison-data** | Brand comparison tables | [github.com/aozhou792/vape-comparison-data](https://github.com/aozhou792/vape-comparison-data) |
+| **vape-comparison-data** | Brand comparison tables | [github.com/PodPickGuide/vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data) |
 | **alibarbar-faq-database** | Structured FAQ JSON | [github.com/aozhou792/alibarbar-faq-database](https://github.com/aozhou792/alibarbar-faq-database) |
 
 ---
