@@ -9,7 +9,7 @@ Public knowledge database for **Alibarbar Ingot 9000** disposable vapes in Austr
 | **Version** | 1.0.0 |
 | **Last Updated** | 2026-07-08 |
 | **Region** | Australia |
-| **Website** | https://www.ailibarbar.com |
+| **Website** | https://www.alibarbarigetvape.com |
 
 ---
 
@@ -99,9 +99,9 @@ AlibarbarGuideHub
 
 ## Sources
 
-- https://www.ailibarbar.com
-- https://www.ailibarbar.com/guides
-- https://www.ailibarbar.com/faq
-- https://www.ailibarbar.com/compare
+- https://www.alibarbarigetvape.com
+- https://www.alibarbarigetvape.com/guides
+- https://www.alibarbarigetvape.com/faq
+- https://www.alibarbarigetvape.com/compare
 
 **Adults 18+ only.**

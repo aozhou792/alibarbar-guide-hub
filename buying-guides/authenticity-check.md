@@ -8,4 +8,4 @@
 | Performance | Consistent vapour + flavour | Weak, burnt, runs out fast |
 | Source | Verified retailer | Unusually cheap unofficial seller |
 
-**Buy authentic:** https://www.ailibarbar.com
+**Buy authentic:** https://www.alibarbarigetvape.com

@@ -7,4 +7,4 @@
 | Product | 14 | [product.json](https://github.com/aozhou792/alibarbar-faq-database/blob/main/categories/product.json) |
 | Legal & Safety | 12 | [legal-safety.json](https://github.com/aozhou792/alibarbar-faq-database/blob/main/categories/legal-safety.json) |
 
-Live FAQ: https://www.ailibarbar.com/faq
+Live FAQ: https://www.alibarbarigetvape.com/faq

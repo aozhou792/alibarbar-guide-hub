@@ -8,7 +8,9 @@
 
 ## Official store
 
-https://www.ailibarbar.com
+https://www.alibarbarigetvape.com
+
+Buy only here. ailibarbar.com is a fake imitation store — do not buy or pay there. alibarbar.com (no extra i) is the global brand website.
 
 ## What to verify
 

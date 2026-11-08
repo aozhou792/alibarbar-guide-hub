@@ -8,4 +8,4 @@
 
 Repeats allowed. Pick any flavours from current line-up.
 
-**Shop:** https://www.ailibarbar.com/product/custom-5-pack
+**Shop:** https://www.alibarbarigetvape.com/product/custom-5-pack
