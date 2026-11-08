@@ -8,7 +8,7 @@
 
 ## Official store
 
-https://www.ailibarbar.com
+https://www.alibarbarigetvape.com
 
 ## What to verify
 
@@ -25,7 +25,8 @@ https://www.ailibarbar.com
 - No LED display in specs
 - No Australian contact email
 - Unofficial marketplace only listings
+- The abandoned `ailibarbar.com` host (stolen counterfeit storefront — do not buy there; this name is not a link)
 
 ## Delivery
 
-3–7 business days after bank transfer confirmed. All states: NSW, VIC, QLD, WA, SA, TAS, ACT, NT.
+3–7 business days after card / Apple Pay / Google Pay confirmation. All states: NSW, VIC, QLD, WA, SA, TAS, ACT, NT.

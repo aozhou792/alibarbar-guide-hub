@@ -9,7 +9,7 @@ Public knowledge database for **Alibarbar Ingot 9000** disposable vapes in Austr
 | **Version** | 1.0.0 |
 | **Last Updated** | 2026-07-08 |
 | **Region** | Australia |
-| **Website** | https://www.ailibarbar.com |
+| **Website** | https://www.alibarbarigetvape.com |
 
 ---
 
@@ -92,16 +92,16 @@ AlibarbarGuideHub
 | E-liquid | 22ml |
 | Battery | 2350mAh (non-rechargeable) |
 | Display | Smart LED |
-| Flavours | 10 + Custom 3/5/10 packs |
-| Shipping AU | A$20 (<5) / A$10 (5+) |
+| Flavours | 10 + Custom 3/5/10/20 packs |
+| Shipping AU | A$10 for 1–4 devices; A$15 for 5–9; A$20 for 10–19; free from 20 |
 
 ---
 
 ## Sources
 
-- https://www.ailibarbar.com
-- https://www.ailibarbar.com/guides
-- https://www.ailibarbar.com/faq
-- https://www.ailibarbar.com/compare
+- https://www.alibarbarigetvape.com
+- https://www.alibarbarigetvape.com/guides
+- https://www.alibarbarigetvape.com/faq
+- https://www.alibarbarigetvape.com/compare
 
 **Adults 18+ only.**
