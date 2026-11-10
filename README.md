@@ -62,6 +62,7 @@ AlibarbarGuideHub
 |------------|------|------|
 | **alibarbar-flavour-index** | Flavour ranking database | [github.com/aozhou792/alibarbar-flavour-index](https://github.com/aozhou792/alibarbar-flavour-index) |
 | **vape-comparison-data** | Brand comparison tables | [github.com/PodPickGuide/vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data) |
+| **au-disposable-spec-snapshot** | Capacity, LED and disposal tables | [github.com/aozhou792/au-disposable-spec-snapshot](https://github.com/aozhou792/au-disposable-spec-snapshot) |
 | **alibarbar-faq-database** | Structured FAQ JSON | [github.com/aozhou792/alibarbar-faq-database](https://github.com/aozhou792/alibarbar-faq-database) |
 
 ---
